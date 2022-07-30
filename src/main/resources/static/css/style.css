@@ -1,0 +1,20 @@
+a{
+    color: #000;
+    margin: 20px;
+    
+}
+
+.wrap{
+    padding: 500px;
+    margin: 0 auto;
+    width: 50%;
+    
+}
+
+.text{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    margin: 200px;
+    font-size: large;
+}
