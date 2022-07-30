@@ -11,7 +11,17 @@ a{
     
 }
 
-.text{
+.time{
+    color: green;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    margin: 200px;
+    font-size: large;
+}
+
+.date{
+    color:blue;
     margin: 0 auto;
     width: 50%;
     text-align: center;

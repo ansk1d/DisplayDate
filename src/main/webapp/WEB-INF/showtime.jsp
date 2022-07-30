@@ -11,7 +11,7 @@
 <title>Time</title>
 </head>
 <body onload=alerttime()>
-	<p class="text"> <c:out value="${time}" /> </p>
+	<p class="time"> <c:out value="${time}" /> </p>
        
 </body>
 </html>

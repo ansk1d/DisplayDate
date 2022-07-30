@@ -11,7 +11,7 @@
 	<script type="text/javascript" src="/js/app.js"></script>
 </head>
 <body onload=date()>
-		<p class="text"> <c:out value="${date}" /> </p>
+		<p class="date"> <c:out value="${date}" /> </p>
 
 	
 </body>
